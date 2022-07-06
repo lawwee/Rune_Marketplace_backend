@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# RUNE MARKETPLACE
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+The Rune Marketplace is an NFT marketplace that provides users with the ability to mint readily available NFTs for a certain price, to their addresses.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+The smart contract used in the backend follows through the ERC720 token standard.
